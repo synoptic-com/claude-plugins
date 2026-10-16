@@ -1,0 +1,15 @@
+{
+  "name": "synoptic",
+  "owner": {
+    "name": "Synoptic",
+    "email": "info@synoptic.com"
+  },
+  "description": "Synoptic news feeds and source monitoring.",
+  "plugins": [
+    {
+      "name": "synoptic",
+      "source": "./plugins/synoptic",
+      "description": "Follow live feeds from Twitter/X, Telegram and GitHub to press releases, SEC filings, IPOs, court dockets and economic releases, and publish your own feeds with Synoptic."
+    }
+  ]
+}

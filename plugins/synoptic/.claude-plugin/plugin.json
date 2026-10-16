@@ -1,0 +1,19 @@
+{
+  "name": "synoptic",
+  "displayName": "Synoptic",
+  "version": "1.0.0",
+  "description": "Follow live feeds from Twitter/X, Telegram and GitHub to press releases, SEC filings, IPOs, court dockets and economic releases, and publish your own feeds with Synoptic.",
+  "author": {
+    "name": "Synoptic",
+    "email": "info@synoptic.com",
+    "url": "https://www.synoptic.com/"
+  },
+  "homepage": "https://www.synoptic.com/",
+  "repository": "https://github.com/synoptic-com/claude-plugins",
+  "license": "Apache-2.0",
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://docs.synoptic.com/s/mcp/mcp",
+  "supportUrl": "https://www.synoptic.com/",
+  "privacyPolicyUrl": "https://synoptic.com/policy",
+  "termsOfServiceUrl": "https://synoptic.com/terms"
+}
